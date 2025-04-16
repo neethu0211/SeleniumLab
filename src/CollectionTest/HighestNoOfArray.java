@@ -25,5 +25,4 @@ public class HighestNoOfArray {
 		}
 		System.out.println("hight number is:"+highest);
 	}
-
 }

@@ -13,8 +13,6 @@ public class ArrayAssignValue {
 			System.out.println(n[i]);
 			
 		}
-		
-
 	}
 
 }

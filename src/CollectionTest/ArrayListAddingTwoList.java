@@ -7,5 +7,4 @@ public class ArrayListAddingTwoList {
 		// TODO Auto-generated method stub
 
 	}
-
 }
