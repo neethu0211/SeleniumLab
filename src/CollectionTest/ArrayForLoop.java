@@ -9,9 +9,6 @@ public class ArrayForLoop {
 		{
 			System.out.println(arr[i]);
 		}
-		
-		
-
 	}
 
 }

@@ -12,7 +12,5 @@ public class AssignValToArrayUsingLoop {
 			System.out.println(n[i]);
 			
 		}
-
 	}
-
 }
